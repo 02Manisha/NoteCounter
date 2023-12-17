@@ -7,8 +7,6 @@
 
 * It simplifies the process of breaking down an amount into various notes.
 
-
-
 ## Features
 
 - Input an amount in rupees.
@@ -23,3 +21,9 @@
 4. The program will display the count of each note required.
 5. Choose to recount if necessary.
 
+## Author
+Manisha Chauhan
+
+## Contact:
+- Email: cneha2675@gmail.com
+- Github : [my github profile] (https://github.com/02Manisha)
