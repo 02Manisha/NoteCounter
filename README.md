@@ -10,7 +10,7 @@
 ## Features
 
 - Input an amount in rupees.
-- Automatically calculates the count of 💵 *Rs 500, 💵 **Rs 200, 💵 **Rs 100, 💵 **Rs 50, 💵 **Rs 20, 💵 **Rs 10, 💵 **Rs 5, 💵 **Rs 2, and 💵 **Rs 1* notes.
+- Automatically calculates the count of 💵 Rs 500, 💵 Rs 200, 💵 Rs 100, 💵 Rs 50, 💵 Rs 20, 💵 Rs 10, 💵 Rs 5, 💵 Rs 2, and 💵 Rs 1 notes.
 - Interactive user experience with the option to recount.
 
 ## How to Use
@@ -21,7 +21,8 @@
 4. The program will display the count of each note required.
 5. Choose to recount if necessary.
 
-## Output
+
+## Output Demo
 ```bash
 Enter a amount ::: Rs 598
 
