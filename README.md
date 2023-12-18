@@ -1,4 +1,4 @@
-# NoteCounter
+ 
 #  *Currency Note Counter* 
 
 ## Overview
@@ -20,6 +20,19 @@
 3. **Enter** the desired amount.
 4. The program will display the count of each note required.
 5. Choose to recount if necessary.
+
+## Output
+```bash
+Enter a amount ::: Rs 598
+
+The count of notes required are :
+Rs 500= 1       Rs 200= 0       Rs 100= 0
+Rs 50= 1        Rs 20= 2        Rs 10= 0
+Rs 5= 1         Rs 2= 1         Rs 1= 1
+
+Do you want to recount?(y/n)
+```
+
 
 ## Author
 Manisha Chauhan
